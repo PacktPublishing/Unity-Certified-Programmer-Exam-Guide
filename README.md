@@ -9,7 +9,7 @@ This is the code repository for [Unity Certified Programmer: Exam Guide](Packt U
 ## What is this book about?
 Unity Certified Programmer is a global certification program by Unity for anyone looking to become a professional Unity developer. The official Unity programmer exam will not only validate your Unity knowledge and skills, but also enable you to be part of the Unity community.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 * Discover techniques for writing modular, readable, and reusable scripts in Unity
 * Implement and configure objects, physics, controls, and movements for your game projects
 * Understand 2D and 3D animation and write scripts that interact with Unity's Rendering API
@@ -45,9 +45,7 @@ With the following software and hardware list you can run all code files present
 
 ## Code in Action
 
-Click on the following link to see the Code in Action:
-
-[Placeholder link](https://bit.ly/3hZHeGi)
+Click on the following link to see the Code in Action: (https://bit.ly/3hZHeGi)
 
 ### Related products <Other books you may enjoy>
 * Unity Game Optimization, Third Edition [[Packt]](https://www.packtpub.com/game-development/unity-game-optimization-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781838556518) [[Amazon]](https://www.amazon.com/dp/1838556516)
