@@ -40,8 +40,8 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1 to 14  | Windows 7 (SP1+) and Windows 10,      Windows, Mac OS X, and Linux (Any)
-            64-bit versions only.                |                                    |
+| 1 to 14  | Windows 7 (SP1+) and Windows 10,    | Windows, Mac OS                    |
+|          | 64-bit versions only.               |                                    |
 
 ## Code in Action
 
