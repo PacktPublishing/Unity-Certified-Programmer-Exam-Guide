@@ -45,7 +45,8 @@ With the following software and hardware list you can run all code files present
 
 ## Code in Action
 
-Click on the following link to see the Code in Action: (https://bit.ly/3hZHeGi)
+Click on the following link to see the Code in Action: 
+[YouTube] (https://www.youtube.com/playlist?list=PLeLcvrwLe184walvZVrGsvg7LOo7hcqei)
 
 ### Related products <Other books you may enjoy>
 * Unity Game Optimization, Third Edition [[Packt]](https://www.packtpub.com/game-development/unity-game-optimization-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781838556518) [[Amazon]](https://www.amazon.com/dp/1838556516)
