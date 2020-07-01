@@ -1,6 +1,6 @@
 # Unity Certified Programmer: Exam Guide
 
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Unity Certified Programmer: Exam Guide" height="256px" align="right"></a>
+<a href="Packt UTM URL of the Book"><img src="https://www.packtpub.com/media/catalog/product/cache/bf3310292d6e1b4ca15aeea773aca35e/9/7/9781838828424-original_45.jpeg" alt="Unity Certified Programmer: Exam Guide" height="256px" align="right"></a>
 
 This is the code repository for [Unity Certified Programmer: Exam Guide](Packt UTM URL of the Book), published by Packt.
 
@@ -40,8 +40,8 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1 to 14  | Windows 7 (SP1+) and Windows 10,    | Windows, Mac OS                    |
-|          | 64-bit versions only.               |                                    |
+| 1 to 14  |     Unity 2017.3                    | Windows 7 (SP1+) and Windows 10,   |
+|          |                                     |  64-bit versions only.             |
 
 ## Code in Action
 
