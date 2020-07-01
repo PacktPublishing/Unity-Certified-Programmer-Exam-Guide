@@ -1,8 +1,8 @@
 # Unity Certified Programmer: Exam Guide
 
-<a href="Packt UTM URL of the Book"><img src="https://www.packtpub.com/media/catalog/product/cache/bf3310292d6e1b4ca15aeea773aca35e/9/7/9781838828424-original_45.jpeg" alt="Unity Certified Programmer: Exam Guide" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/game-development/unity-certified-programmer-study-guide?utm_source=github&utm_medium=repository&utm_campaign=9781838828424"><img src="https://www.packtpub.com/media/catalog/product/cache/bf3310292d6e1b4ca15aeea773aca35e/9/7/9781838828424-original_45.jpeg" alt="Unity Certified Programmer: Exam Guide" height="256px" align="right"></a>
 
-This is the code repository for [Unity Certified Programmer: Exam Guide](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [Unity Certified Programmer: Exam Guide](https://www.packtpub.com/game-development/unity-certified-programmer-study-guide?utm_source=github&utm_medium=repository&utm_campaign=9781838828424), published by Packt.
 
 **Expert tips and techniques to pass the Unity certification exam at the first attempt**
 
